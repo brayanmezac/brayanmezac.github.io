@@ -3,7 +3,7 @@ title: 'Rotar, Mover y escalar objetos 3D en escenas de Spark AR'
 date: '2023-04-05'
 --- 
 ---
-Permitir a los usuarios mover objetos en una experiencia de realidad aumentada puede ser muy útil para eexperiencias de marketing, educación y entretenimiento, ya que esto les da a los usuarios un mayor control y la posibilidad de personalizar su experiencia. Además, esto puede mejorar la interactividad y la inmersión en la experiencia, lo que es beneficioso para una variedad de casos de uso.
+Permitir a los usuarios mover objetos en una experiencia de realidad aumentada puede ser muy útil para experiencias de marketing, educación y entretenimiento, ya que esto les da a los usuarios un mayor control y la posibilidad de personalizar su experiencia. Además, esto puede mejorar la interactividad y la inmersión en la experiencia, lo que es beneficioso para una variedad de casos de uso.
 
 ### Paso 1: Agrega el plane Tracker a la escena.
 Cuando añadimos el "plane tracker" en la escena de Spark AR, podemos utilizar la cámara trasera de nuestro dispositivo para buscar superficies planas en el mundo real. De esta forma, podemos agregar objetos virtuales en una experiencia de realidad aumentada que se ajusten a la superficie detectada.
